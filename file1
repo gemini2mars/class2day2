@@ -1,3 +1,4 @@
 echo "welcome to git to jenkins code"
 whoami
 date
+echo "add trigger for GITScm"
